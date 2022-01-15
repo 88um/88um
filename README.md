@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @88um
+- 👋 Hi, I’m joshua
 - 👀 I’m interested in taking yo bitch
 - 🌱 I’m currently learning how to code things; I like instagram api
 - 💞️ I’m looking to collaborate on yo hoe
