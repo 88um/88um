@@ -1,8 +1,4 @@
-- 👋 Hi, I’m joshua
-- 👀 I’m interested in taking yo bitch
-- 🌱 I’m currently learning how to code things; I like instagram api
-- 💞️ I’m looking to collaborate on yo hoe
-- 📫 How to reach me: @crackled on tele (send nudes)
+my personal archive, mainly python but will start posting java and c# soon
 
 <!---
 88um/88um is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
