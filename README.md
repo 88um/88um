@@ -7,14 +7,7 @@
     <a href="https://t.me/igbotshop" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"</a>
  
   
-  
-</div>
- <br>
 
- <div align="center" >
-  <a href="https://github.com/88um">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=88um&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
 
 
  <h3>Main technologies</h3>
