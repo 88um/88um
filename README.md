@@ -15,6 +15,7 @@
   <img align="center" alt="Lari-git" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
   <img align="center" alt="Lari-git" height="52" width="52" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/>
   <img align="center" alt="Lari-git" height="30" width="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
+  <img align="center" alt="Lari-git" height="30" width="30" src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603429394-T8E8IQCL03OEREG2ZQMN/Swift_logo.png?format=1000w"/>
  
  <h3>Tools</h3>
   <div style="display: inline_block">
