@@ -2,7 +2,7 @@
 <br>
 
   <div  align="center"> 
-  <h1><b>Hey, It's me, Joshua <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30"></b></h1> 
+  <h1><b>Hey, It's me, Joshua <img src=https://static01.nyt.com/newsgraphics/2017/07/07/critics-summer-series/assets/gifs/lil_uzi_top-320.gif width="50"></b></h1> 
   <a href = "mailto:atriciaurray@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ulzi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
     <a href="https://t.me/igbotshop" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"</a>
