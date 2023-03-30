@@ -11,7 +11,7 @@
 
 
  <h3>Main technologies</h3>
-  <img align="center" alt="Lari-git" height="40" width="40" src="https://symbols.getvecta.com/stencil_25/38_java.bc46b9254c.png"/>
+  
   <img align="center" alt="Lari-git" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
   <img align="center" alt="Lari-git" height="52" width="52" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/>
   <img align="center" alt="Lari-git" height="30" width="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
